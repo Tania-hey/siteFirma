@@ -1,14 +1,20 @@
 <template>
-  <SiteHeader />
+  <SiteHeader/>
+  <DespreNoi/>
+  <IntrebariFrecvente/>
 </template>
 
 <script>
 import SiteHeader from './components/SiteHeader.vue';
+import DespreNoi from './components/DespreNoi.vue';
+import IntrebariFrecvente from './components/IntrebariFrecvente.vue';
 
 export default {
   name: 'App',
   components: {
-    SiteHeader
+    SiteHeader,
+    DespreNoi,
+    IntrebariFrecvente
   }
 }
 </script>
