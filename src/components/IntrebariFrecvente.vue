@@ -94,7 +94,7 @@
         </div>
     </div>
     <div class="d-none d-lg-flex align-items-center">
-        <img src="../assets/img/questionMark.jpg" alt="">
+        <img src="../assets/img/questionMark.png" alt="">
     </div>
 </div>
 </template>
